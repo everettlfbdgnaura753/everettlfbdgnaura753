@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm everettlfbdgnaura753
 
-<!--
-**everettlfbdgnaura753/everettlfbdgnaura753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏊 🥋 🔥 🌍 Hacking on augmented reality 🏊 🥋 🔥 🌍
 
-Here are some ideas to get you started:
+## About Me
+🎰 🎧 🚴 A nerd in mobile development 🎰 🎧 🚴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🚣 🚀 🥊 A coder in machine learning 🚣 🚀 🥊
+
+### Fun Facts
+🎽 🎽 🏄 🎯 Passionate about content creation 🎽 🎽 🏄 🎯
+
+---
+🎰 🚣 🏄 🏸 🚵 Thanks for visiting my profile! 🥊 🎱 🛼 🎽 🏑
